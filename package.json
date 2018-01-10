@@ -1,0 +1,25 @@
+{
+  "name": "ms-teams-jira",
+  "version": "1.0.0",
+  "description": "Jira extension for Microsoft Teams",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smurli/ms-teams-jira.git"
+  },
+  "keywords": [
+    "jira",
+    "ms-teams",
+    "microsoft-teams",
+    "teams"
+  ],
+  "author": "Murli Sivashanmugam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/smurli/ms-teams-jira/issues"
+  },
+  "homepage": "https://github.com/smurli/ms-teams-jira#readme"
+}
